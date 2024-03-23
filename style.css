@@ -1,0 +1,35 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+}
+
+.button{
+    padding:20px;
+    margin: 0 2px;
+    width: 55px;
+    border: 2px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.equalBtn{
+    padding:20px;
+    margin: 0 2px;
+    width: 55px;
+    border: 2px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #fb7c14;
+}
+.row{
+    margin: 4px 0;
+}
+
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 6px;
+}
